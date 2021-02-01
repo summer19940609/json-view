@@ -11,3 +11,6 @@
 2. 编写油猴脚本
 ![foiedP](https://cdn.jsdelivr.net/gh/summer19940609/picture-repo@master/uPic/foiedP.png)
 3. 选择要展示的json文本，用popclip打开
+![mp0WRq](https://cdn.jsdelivr.net/gh/summer19940609/picture-repo@master/uPic/mp0WRq.png)
+
+具体油猴脚本见仓库代码
