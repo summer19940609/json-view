@@ -17,3 +17,6 @@
 ![mp0WRq](https://cdn.jsdelivr.net/gh/summer19940609/picture-repo@master/uPic/mp0WRq.png)
 
 具体油猴脚本见仓库代码
+
+脚本已经发布在greasy fork
+![75Xh5Y](https://cdn.jsdelivr.net/gh/summer19940609/picture-repo@master/uPic/75Xh5Y.png)
