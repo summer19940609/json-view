@@ -1,9 +1,9 @@
 // ==UserScript==
-// @name         Json.cn净化
+// @name         Json.cn优化，配合popclip使用
 // @namespace    http://tampermonkey.net/
-// @version      0.3
-// @description  json.cn 纯净版
-// @author       aries.zhou
+// @version      0.1
+// @description  json.cn 
+// @author       xnj
 // @match        https://www.json.cn/**
 // @grant        none
 // ==/UserScript==
